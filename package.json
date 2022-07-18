@@ -1,5 +1,6 @@
 {
 	"author": "Aparna Gurumurthy",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
