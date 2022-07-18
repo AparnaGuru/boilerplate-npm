@@ -1,7 +1,7 @@
 {
 	"author": "Aparna Gurumurthy",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "freecodecamp", "nodeJs" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
