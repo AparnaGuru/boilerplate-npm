@@ -2,6 +2,7 @@
 	"author": "Aparna Gurumurthy",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "freecodecamp", "nodeJs" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
